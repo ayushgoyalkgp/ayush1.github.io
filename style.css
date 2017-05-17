@@ -1,6 +1,6 @@
 body {
 	background-image: url(b1.jpg);
-    background-repeat: repeat-y;
+    background-repeat: no-repeat;
 	}
 .container {
     position: absolute;
